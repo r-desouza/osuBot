@@ -1,4 +1,4 @@
-##### osu! recent ranked maps discord bot
+# osu! recent ranked maps discord bot
 
 This bot pops up a beatmap if it just got ranked on a whitelisted discord server within 2 minutes, uses Discord's and osu!'s API.
 
