@@ -79,7 +79,7 @@ public class Bot {
             Files.createFile(pathapikey);
 
 
-        String apikey = "424aa3a77eef50a8105cedb68cbb4609f50ea6fe";
+        String apikey = "";
 
 //NEW RANKED MAP
 
